@@ -174,7 +174,7 @@ namespace lampka
                 Console.WriteLine($"Żarówka spalona: {lampka.CzyZarowkaSpalona()}");
                 Console.WriteLine($"Intensywność: {lampka.Intensywnosc}");
 
-                Console.WriteLine("\n\n");
+                Console.WriteLine("\n\n\n\n\n\n");
 
             } while (true);
         }
